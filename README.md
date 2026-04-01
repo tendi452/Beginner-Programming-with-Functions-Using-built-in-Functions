@@ -18,4 +18,9 @@ print(Value)
 import math as m
 value = m.sqrt(16)
 
+more examples:
+numbers = [2,4,6]
+print(sum(numbers))
+print(min(numbers))
+print(max(numbers))
 
